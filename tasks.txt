@@ -1,5 +1,5 @@
 Perform Data preprocessing (Done)
-Perform Modeling (TODO)
+Perform Modeling (Done)
 Perform Evaluation (TODO)
 Deployment (TODO)
 
