@@ -1,7 +1,7 @@
 Perform Data preprocessing (Done)
-Perform Modeling (Done)
-Perform Evaluation (Done)
-Deployment (Done)
+Perform Modeling (TODO)
+Perform Evaluation (TODO)
+Deployment (TODO)
 
 Developers:
 Ahmed Hesham
