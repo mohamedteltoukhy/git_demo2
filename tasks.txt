@@ -1,7 +1,7 @@
 Perform Data preprocessing (TODO)
 Perform Modeling (TODO)
 TODO: Evaluate Model
-TODO: Deploy
+Deployment (Done)
 
 Developers:
 Ahmed Hesham
