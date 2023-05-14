@@ -2,6 +2,7 @@ Perform Data preprocessing (Done)
 Perform Modeling (Done)
 Perform Evaluation (Done)
 Deployment (Done)
+For testing purposes
 
 Developers:
 Ahmed Hesham
