@@ -1,6 +1,6 @@
-Perform Data preprocessing (TODO)
-Perform Modeling (TODO)
-TODO: Evaluate Model
+Perform Data preprocessing (Done)
+Perform Modeling (Done)
+Perform Evaluation (Done)
 Deployment (Done)
 
 Developers:
