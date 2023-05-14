@@ -1,0 +1,7 @@
+Perform Data preprocessing (TODO)
+Perform Modeling (Done)
+TODO: Evaluate Model
+
+Developers:
+Ahmed Hesham
+Mahmoud Yasser
